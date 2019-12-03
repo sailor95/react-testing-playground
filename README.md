@@ -4,7 +4,7 @@ Using [Jest](https://jestjs.io/) & [Enzyme](https://github.com/airbnb/enzyme).
 
 ## Main Components
 
-This is a simple "Comments" app, user can post a comment or fetch mutiple comments from 3rd party API.
+This is a simple "Comments" app, user can post a comment or fetch mutiple comments from 3rd party [API](https://jsonplaceholder.typicode.com/).
 
 ## Testing Scenarios
 
