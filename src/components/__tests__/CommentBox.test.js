@@ -21,7 +21,7 @@ afterEach(() => {
 
 it('has a text area and a button', () => {
   expect(wrapped.find('textarea').length).toEqual(1);
-  expect(wrapped.find('button').length).toEqual(1);
+  expect(wrapped.find('button').length).toEqual(2);
 });
 
 // Create a test code block
