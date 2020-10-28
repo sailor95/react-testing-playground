@@ -1,6 +1,6 @@
 # React Unit Test & Integration Test
 
-Using [Jest](https://jestjs.io/) & [Enzyme](https://github.com/airbnb/enzyme).
+React unit test & integration test project using [Jest](https://jestjs.io/) & [Enzyme](https://github.com/airbnb/enzyme).
 
 ## Main Components
 
